@@ -1,0 +1,10 @@
+We need to install Git in Windows from GitHub URL
+after installing we can check the installed git version by giving command git --version
+How to create files using git bash
+right click on desktop and use the following commands
+
+MKDIR Flipkart 
+add .gitignore
+add .gitinit
+check git status
+vim employee.txt >>>>>> Eswar Erendra Divya
